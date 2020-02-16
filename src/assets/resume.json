@@ -1,0 +1,198 @@
+{
+  "name": "Touhidur Rahman",
+  "title": "Frontend Developer",
+  "career_summary": "A self-learned software developer who dropped piloting career for the passion of coding. On the way to becoming a full-stack developer. Currently, a Frontend expert in Angular, although open for Reactjs. 3.5 years of professional experience and soft skills inherited from 8 years of military service contributing to a calm personality with leadership traits and capable of seeing the big picture. Loves learning new stuff.",
+  "skills": [
+    "Angular",
+    "Typescript",
+    "Javascript",
+    "RxJS",
+    "Node.JS",
+    "Nest.JS",
+    "Angular material",
+    "Bootstrap",
+    "HTML",
+    "CSS",
+    "Ionic",
+    "PHP",
+    "Python",
+    "Android/Java",
+    "Linux",
+    "Git",
+    "MySQL",
+    "MongoDB",
+    "Adobe Photoshop/Illustrator",
+    "Amazon AWS"
+  ],
+  "experience": [
+    {
+      "position": "Frontend Developer",
+      "company": "Mobile2b GmbH",
+      "website": "http://mobile2b.de",
+      "location": "Cologne, Germany",
+      "from": "20190827T00:00:00Z",
+      "to": "",
+      "tasks": [
+        "Upgraded angular v5 to v8 within 2 weeks of joining.",
+        "Added charting library to display the complex data intuitively.",
+        "Added features that use lightweight Redux approach without any 3rd party library.",
+        "Deployed a self-coded chat microservice backend written in Nestjs and integrated it with the frontend.",
+        "As the main in-house developer, guiding the project towards technical excellence such as implementing autoformat with prettier, upgrading framework and libraries regularly, organize code architecture, follow best practices, etc.",
+        "Following a roadmap to becoming a Full-stack developer and get promoted in a leadership position in the company."
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Acomodeo UG",
+      "website": "http://www.acomodeo.com/en",
+      "location": "Frankfurt, Germany",
+      "from": "20170814T00:00:00Z",
+      "to": "20190331T00:00:00Z",
+      "tasks": [
+        "Joined as an intern and started with AngularJS (v1). I learned it within 1 month and started working on the core team. Got a full-time job offer right after 2 months of internship.",
+        "Conceptualized new UI/UX and added features to the apartment management system which handles 400k properties in 110 countries.",
+        "Upgraded Angular v1 to v5, used state management library NGRX."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Novoair Ltd.",
+      "website": "http://flynovoair.com",
+      "location": "Dhaka, Bangladesh",
+      "from": "20150802T00:00:00Z",
+      "to": "20161001T00:00:00Z",
+      "tasks": [
+        "Single-handedly upgraded official airline website built using basic PHP (no framework) to Codeigniter.",
+        "Upgraded UI from scratch. Developed a CMS for the site.",
+        "Developed the 'Career' & 'Media' websites using Wordpress.",
+        "Made many decision-making tools e.g.- 'Route-wise Flight Cost Calculator' to determine optimum ticket price etc.",
+        "Maintained company social media profiles and ran ad campaigns.",
+        "Designed company overview magazine and marketing materials using Adobe Illustrator, InDesign & Photoshop."
+      ]
+    }
+  ],
+  "other_experiences": [
+    "Military Helicopter Pilot at Bangladesh Air Force (2007 - 2015).",
+    "Freelance programmer and graphics designer (2012- 2016).",
+    "Remote Web developer at Whyzlist.com, a Canadian startup (2016 - 2017)."
+  ],
+  "education": [
+    {
+      "degree": "MSC",
+      "major": "Global Software Development",
+      "university": "Hochschule Fulda University of Applied Sciences",
+      "location": "Fulda, Germany",
+      "from": "20161012T00:00:00Z",
+      "to": "20181011T00:00:00Z",
+      "result": {
+        "score": 3.30,
+        "out_of": 4
+      },
+      "descriptions": [
+        "Studied subjects like Middleware, Parallel Programming, Cloud Computing, Programming Paradigm, Test Oriented Software Development, User-Driven Development, Model-Driven Development, Web & Mobile Apps.",
+        "Tech-lead for final software project of a 6 members team, contributing ~50% code alone. Top grader in the team.",
+        "Master thesis on finding visual differences of web frontends using image processing."
+      ]
+    },
+    {
+      "degree": "PGD",
+      "major": "Computer Science",
+      "university": "Bangladesh Institute of Management",
+      "location": "Dhaka, Bangladesh",
+      "from": "20140101T00:00:00Z",
+      "to": "20141231T00:00:00Z",
+      "result": {
+        "score": 3.95,
+        "out_of": 4
+      },
+      "descriptions": [
+        "Class representative for batch 2014"
+      ]
+    },
+    {
+      "degree": "BSC",
+      "major": "Aeronautics",
+      "university": "Bangladesh University of Professionals",
+      "location": "Dhaka, bangladesh",
+      "from": "20070109T00:00:00Z",
+      "to": "20091213T00:00:00Z",
+      "result": {
+        "score": 891,
+        "out_of": 1400
+      },
+      "descriptions": []
+    }
+  ],
+  "achievements": [
+    "2 times scholarship holder - Deutschlandstipendium (German Fellowship) 2016, 2017.",
+    "DAAD Best international student award for excellent achievement by a foreign student, 2017.",
+    "2 times University Idea Competition finalist 2016, 2017."
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "competency": "Fluent",
+      "score": "IELTS 7.0"
+    },
+    {
+      "language": "German",
+      "competency": "Beginner",
+      "score": "A2"
+    },
+    {
+      "language": "Bengali",
+      "competency": "Native",
+      "score": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "",
+      "link": "",
+      "description": "",
+      "period": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "description": "",
+      "period": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "description": "",
+      "period": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "description": "",
+      "period": ""
+    }
+  ],
+  "contacts": {
+    "phone": "+4915771307757",
+    "email": "touhidrahman1987@gmail.com",
+    "address": {
+      "street": "Am Tannenhof 23",
+      "city": "Cologne",
+      "postcode": 50999,
+      "country": "Germany"
+    },
+    "websites": [
+      {
+        "type": "LinkedIn",
+        "url": "http://linkedin.com/in/touhidrahman"
+      },
+      {
+        "type": "Github",
+        "url": "http://github.com/touhidrahman"
+      },
+      {
+        "type": "Portfolio",
+        "url": "http://be.net/touhidrahman"
+      }
+    ]
+  }
+}
