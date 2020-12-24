@@ -1,4 +1,4 @@
-# ng-starter-no-semi-four-space
+# touhidrahman-me
 
 I am tired of adding prettier and configuring for 4 spaced tab, no semicolon for my projects. So this starter project was born.
 
@@ -8,13 +8,13 @@ This project is using [Angular CLI](https://github.com/angular/angular-cli) vers
 
 1. Clone the repository and checkout to intended branch for your project's requirements:
 
-`git clone https://github.com/touhidrahman/ng-starter-no-semi-four-space <your-project-name>`
+`git clone https://github.com/touhidrahman/touhidrahman-me <your-project-name>`
 
 `cd <your-project-name>`
 
 `git checkout <desired-branch-name>`
 
-- `master`: bare-bone angular project with no framework. 
+- `master`: bare-bone angular project with no framework.
 - `ng-material`: official material library for angular as the UI framework.
 - `ng-tailwind`: tailwindcss for the UI, uses a third-party module to integrate tailwind.
 - `ng-tail-mat`: Uses the power of both tailwindcss and ng-material.
@@ -24,7 +24,7 @@ This project is using [Angular CLI](https://github.com/angular/angular-cli) vers
 
 `rm -rf .git`
 
-3. Search project-wide (Ctrl+Shift+F for VS Code) for the string `ng-starter-no-semi-four-space` and replace with your project identifier (e.g.- `my-project`).
+3. Search project-wide (Ctrl+Shift+F for VS Code) for the string `touhidrahman-me` and replace with your project identifier (e.g.- `my-project`).
 
 4. Re-initialize git with `git init` at the project root to add source control (optional).
 
@@ -50,7 +50,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Contributing
 
-Feel free to open an issue and/or PR to add features. 
+Feel free to open an issue and/or PR to add features.
 
 ## Licence
 &copy; MIT
