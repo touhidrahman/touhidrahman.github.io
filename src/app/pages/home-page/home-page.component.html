@@ -1,5 +1,5 @@
 <main class="container max-w-6xl py-24 mx-auto">
-    <div class="p-12 bg-white rounded-lg shadow-xl">
+    <div class="p-24 bg-white rounded shadow-xl">
         <section class="flex items-center">
             <img
                 class="block w-32 h-32 mr-8 border-2 border-white rounded-full shadow-lg"
@@ -66,6 +66,15 @@
                 [location]="job.location"
                 [responsibilities]="job.responsibilities"
             ></app-experience>
+<div class="flex items-baseline justify-between w-full mt-6">
+    <h2 class="text-xl font-bold text-gray-500">Other Experiences</h2>
+    <div class="text-gray-400">2007 - 2016</div>
+</div>
+<ul class="pl-12 mt-4 list-disc">
+    <li><strong>Military Helicopter Pilot</strong> at Bangladesh Air Force (2007 - 2015)</li>
+    <li><strong>Freelance Disgner and Programmer</strong> (2012 - 2016)</li>
+    <li><strong>Remote Web Developer</strong> at Whyzlist.com, Canada (2016)</li>
+</ul>
         </section>
 
         <section class="pt-12">
@@ -80,6 +89,21 @@
                 [location]="edu.location"
                 [period]="edu.period"
             ></app-education>
+        </section>
+
+        <section class="pt-12">
+            <h1 class="text-2xl font-bold text-gray-700">Skills</h1>
+            <div class="flex flex-wrap mt-6">
+                <app-pill *ngFor="let text of skills" [text]="text"></app-pill>
+            </div>
+        </section>
+        
+        <section class="pt-12">
+            <h1 class="text-2xl font-bold text-gray-700">Projects</h1>
+            <ul class="pl-12 mt-4 list-disc">
+                <li><strong><a class="hover:text-indigo-500" href="http://github.com/touhidrahman/eyecatching">Eyecatching</a></strong> - Open Source CLI tool built with Python to find visual differences of a web UI between Chrome and Firefox browser. (2018)</li>
+                <li><strong><a class="hover:text-indigo-500" href="http://github.com/touhidrahman/studierent">Studierent</a></strong> - A Student Housing website, final Masters project built with PHP, MySQL, Bootstrap and AWS. (2018)</li>
+            </ul>
         </section>
 
         <section class="pt-12">
@@ -99,5 +123,12 @@
                 <li><strong>English</strong> - Native</li>
             </ul>
         </section>
+<section class="pt-12">
+    <h1 class="text-2xl font-bold text-gray-700">Interests</h1>
+    <ul class="pl-12 mt-4 list-disc">
+        <li>Writing</li>
+        <li>Movies and Series</li>
+    </ul>
+</section>
     </div>
 </main>

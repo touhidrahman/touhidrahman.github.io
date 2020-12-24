@@ -1,4 +1,4 @@
-import { Component } from '@angular/core'
+import {Component} from '@angular/core';
 
 @Component({
     selector: 'app-home-page',
@@ -77,5 +77,31 @@ export class HomePageComponent {
             period: '2007 - 2009',
             location: 'Bangladesh',
         },
+    ]
+
+    skills = [
+        'Angular',
+        'TypeScript',
+        'Javascript',
+        'NodeJS',
+        'Express',
+        'NestJS',
+        'Redux Pattern',
+        'State Management',
+        'Charting Library',
+        'HTML',
+        'CSS / SASS',
+        'Bootstrap',
+        'Angular Material',
+        'Tailwind CSS',
+        'PHP',
+        'Python',
+        'Ionic / Android  Development',
+        'Linux',
+        'Git',
+        'Cloud Computing',
+        'Agile / SCRUM',
+        'JIRA',
+        'Adobe Creative Suite',
     ]
 }
