@@ -1,0 +1,10 @@
+<div class="flex items-baseline justify-between w-full">
+    <h2 class="text-xl font-bold text-gray-500">{{ role }}</h2>
+    <div class="text-gray-400">{{ period }}</div>
+</div>
+<a class="text-indigo-500">{{ companyName }}</a>
+<ul class="pl-12 mt-4 list-disc">
+    <li *ngFor="let item of responsibilities">
+        {{ item }}
+    </li>
+</ul>
