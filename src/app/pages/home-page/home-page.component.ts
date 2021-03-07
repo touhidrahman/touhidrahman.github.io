@@ -1,4 +1,4 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'app-home-page',
@@ -62,13 +62,8 @@ export class HomePageComponent {
             major: 'Global Software Development',
             period: '2016 - 2018',
             location: 'Germany',
-        },
-        {
-            university: 'Bangladesh Institute of Management',
-            program: 'PGD',
-            major: 'Computer Science',
-            period: '2014',
-            location: 'Bangladesh',
+            url:
+                'https://www.hs-fulda.de/en/studies/departments/applied-computer-science/study-programmes/study-programmes/msc-in-global-software-development',
         },
         {
             university: 'Bangladesh University of Professionals',
@@ -76,6 +71,7 @@ export class HomePageComponent {
             major: 'Aeronautics',
             period: '2007 - 2009',
             location: 'Bangladesh',
+            url: 'https://bup.edu.bd',
         },
     ]
 
