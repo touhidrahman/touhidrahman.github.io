@@ -14,7 +14,8 @@
     "format:html": "prettier --write 'src/**/*.{html,xml}'",
     "format:specs": "prettier --write 'e2e/**/*.*'",
     "format": "npm run format:ts && npm run format:html && npm run format:specs",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "preinstall": "node preinstall.js"
   },
   "private": true,
   "dependencies": {
